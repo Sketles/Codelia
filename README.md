@@ -1,5 +1,5 @@
-# Codelia
-###  Trip Calculator Version 0.0.1
+## Codelia
+#  Trip Calculator Version 0.0.1
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)]()
 
